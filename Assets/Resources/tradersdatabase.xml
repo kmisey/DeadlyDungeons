@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<Items>
+		<item name = "goldore">
+			<id>34</id>
+		</item>
+		<item name = "stardustore">
+			<id>35</id>
+		</item>
+		<item name = "vampirism">
+			<id>20</id>
+		</item>
+		<item name = "crit">
+			<id>23</id>
+		</item>
+		<item name = "speed">
+			<id>24</id>
+		</item>
+		<item name = "samuraisword">
+			<id>44</id>
+		</item>
+		<item name = "frenchrapier">
+			<id>45</id>
+		</item>
+		<item name = "explorersshield">
+			<id>48</id>
+		</item>
+	</Items>
+</list>

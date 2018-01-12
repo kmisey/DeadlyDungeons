@@ -1,0 +1,1831 @@
+fileFormatVersion: 2
+guid: 7be8ad9c87eca4a4a83b32e0e0863693
+timeCreated: 1468999530
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Character1_Head
+    100002: Character1_Hips
+    100004: Character1_LeftArm
+    100006: Character1_LeftFoot
+    100008: Character1_LeftForeArm
+    100010: Character1_LeftHand
+    100012: Character1_LeftLeg
+    100014: Character1_LeftShoulder
+    100016: Character1_LeftToeBase
+    100018: Character1_LeftUpLeg
+    100020: Character1_Neck
+    100022: Character1_Reference
+    100024: Character1_RightArm
+    100026: Character1_RightFoot
+    100028: Character1_RightForeArm
+    100030: Character1_RightHand
+    100032: Character1_RightLeg
+    100034: Character1_RightShoulder
+    100036: Character1_RightToeBase
+    100038: Character1_RightUpLeg
+    100040: Character1_Spine
+    100042: Character1_Spine1
+    100044: Character1_Spine2
+    100046: joint1
+    100048: joint2
+    100050: //RootNode
+    100052: skeleton_model:body
+    100054: skeleton_model:bodyPart_0
+    100056: skeleton_model:bodyPart_1
+    100058: skeleton_model:bodyPart_10
+    100060: skeleton_model:bodyPart_100
+    100062: skeleton_model:bodyPart_101
+    100064: skeleton_model:bodyPart_102
+    100066: skeleton_model:bodyPart_103
+    100068: skeleton_model:bodyPart_104
+    100070: skeleton_model:bodyPart_105
+    100072: skeleton_model:bodyPart_106
+    100074: skeleton_model:bodyPart_107
+    100076: skeleton_model:bodyPart_108
+    100078: skeleton_model:bodyPart_109
+    100080: skeleton_model:bodyPart_11
+    100082: skeleton_model:bodyPart_110
+    100084: skeleton_model:bodyPart_111
+    100086: skeleton_model:bodyPart_112
+    100088: skeleton_model:bodyPart_113
+    100090: skeleton_model:bodyPart_114
+    100092: skeleton_model:bodyPart_115
+    100094: skeleton_model:bodyPart_116
+    100096: skeleton_model:bodyPart_117
+    100098: skeleton_model:bodyPart_118
+    100100: skeleton_model:bodyPart_119
+    100102: skeleton_model:bodyPart_12
+    100104: skeleton_model:bodyPart_120
+    100106: skeleton_model:bodyPart_121
+    100108: skeleton_model:bodyPart_122
+    100110: skeleton_model:bodyPart_123
+    100112: skeleton_model:bodyPart_124
+    100114: skeleton_model:bodyPart_125
+    100116: skeleton_model:bodyPart_126
+    100118: skeleton_model:bodyPart_127
+    100120: skeleton_model:bodyPart_128
+    100122: skeleton_model:bodyPart_129
+    100124: skeleton_model:bodyPart_13
+    100126: skeleton_model:bodyPart_130
+    100128: skeleton_model:bodyPart_131
+    100130: skeleton_model:bodyPart_132
+    100132: skeleton_model:bodyPart_133
+    100134: skeleton_model:bodyPart_134
+    100136: skeleton_model:bodyPart_135
+    100138: skeleton_model:bodyPart_136
+    100140: skeleton_model:bodyPart_137
+    100142: skeleton_model:bodyPart_138
+    100144: skeleton_model:bodyPart_139
+    100146: skeleton_model:bodyPart_14
+    100148: skeleton_model:bodyPart_140
+    100150: skeleton_model:bodyPart_141
+    100152: skeleton_model:bodyPart_142
+    100154: skeleton_model:bodyPart_143
+    100156: skeleton_model:bodyPart_144
+    100158: skeleton_model:bodyPart_145
+    100160: skeleton_model:bodyPart_146
+    100162: skeleton_model:bodyPart_147
+    100164: skeleton_model:bodyPart_148
+    100166: skeleton_model:bodyPart_15
+    100168: skeleton_model:bodyPart_16
+    100170: skeleton_model:bodyPart_17
+    100172: skeleton_model:bodyPart_18
+    100174: skeleton_model:bodyPart_19
+    100176: skeleton_model:bodyPart_2
+    100178: skeleton_model:bodyPart_20
+    100180: skeleton_model:bodyPart_21
+    100182: skeleton_model:bodyPart_22
+    100184: skeleton_model:bodyPart_23
+    100186: skeleton_model:bodyPart_24
+    100188: skeleton_model:bodyPart_25
+    100190: skeleton_model:bodyPart_26
+    100192: skeleton_model:bodyPart_27
+    100194: skeleton_model:bodyPart_28
+    100196: skeleton_model:bodyPart_29
+    100198: skeleton_model:bodyPart_3
+    100200: skeleton_model:bodyPart_30
+    100202: skeleton_model:bodyPart_31
+    100204: skeleton_model:bodyPart_32
+    100206: skeleton_model:bodyPart_33
+    100208: skeleton_model:bodyPart_34
+    100210: skeleton_model:bodyPart_35
+    100212: skeleton_model:bodyPart_36
+    100214: skeleton_model:bodyPart_37
+    100216: skeleton_model:bodyPart_38
+    100218: skeleton_model:bodyPart_39
+    100220: skeleton_model:bodyPart_4
+    100222: skeleton_model:bodyPart_40
+    100224: skeleton_model:bodyPart_41
+    100226: skeleton_model:bodyPart_42
+    100228: skeleton_model:bodyPart_43
+    100230: skeleton_model:bodyPart_44
+    100232: skeleton_model:bodyPart_45
+    100234: skeleton_model:bodyPart_46
+    100236: skeleton_model:bodyPart_47
+    100238: skeleton_model:bodyPart_48
+    100240: skeleton_model:bodyPart_49
+    100242: skeleton_model:bodyPart_5
+    100244: skeleton_model:bodyPart_50
+    100246: skeleton_model:bodyPart_51
+    100248: skeleton_model:bodyPart_52
+    100250: skeleton_model:bodyPart_53
+    100252: skeleton_model:bodyPart_54
+    100254: skeleton_model:bodyPart_55
+    100256: skeleton_model:bodyPart_56
+    100258: skeleton_model:bodyPart_57
+    100260: skeleton_model:bodyPart_58
+    100262: skeleton_model:bodyPart_59
+    100264: skeleton_model:bodyPart_6
+    100266: skeleton_model:bodyPart_60
+    100268: skeleton_model:bodyPart_61
+    100270: skeleton_model:bodyPart_62
+    100272: skeleton_model:bodyPart_63
+    100274: skeleton_model:bodyPart_64
+    100276: skeleton_model:bodyPart_65
+    100278: skeleton_model:bodyPart_66
+    100280: skeleton_model:bodyPart_67
+    100282: skeleton_model:bodyPart_68
+    100284: skeleton_model:bodyPart_69
+    100286: skeleton_model:bodyPart_7
+    100288: skeleton_model:bodyPart_70
+    100290: skeleton_model:bodyPart_71
+    100292: skeleton_model:bodyPart_72
+    100294: skeleton_model:bodyPart_73
+    100296: skeleton_model:bodyPart_74
+    100298: skeleton_model:bodyPart_75
+    100300: skeleton_model:bodyPart_76
+    100302: skeleton_model:bodyPart_77
+    100304: skeleton_model:bodyPart_78
+    100306: skeleton_model:bodyPart_79
+    100308: skeleton_model:bodyPart_8
+    100310: skeleton_model:bodyPart_80
+    100312: skeleton_model:bodyPart_81
+    100314: skeleton_model:bodyPart_82
+    100316: skeleton_model:bodyPart_83
+    100318: skeleton_model:bodyPart_84
+    100320: skeleton_model:bodyPart_85
+    100322: skeleton_model:bodyPart_86
+    100324: skeleton_model:bodyPart_87
+    100326: skeleton_model:bodyPart_88
+    100328: skeleton_model:bodyPart_89
+    100330: skeleton_model:bodyPart_9
+    100332: skeleton_model:bodyPart_90
+    100334: skeleton_model:bodyPart_91
+    100336: skeleton_model:bodyPart_92
+    100338: skeleton_model:bodyPart_93
+    100340: skeleton_model:bodyPart_94
+    100342: skeleton_model:bodyPart_95
+    100344: skeleton_model:bodyPart_96
+    100346: skeleton_model:bodyPart_97
+    100348: skeleton_model:bodyPart_98
+    100350: skeleton_model:bodyPart_99
+    100352: skeleton_model:eye_lft
+    100354: skeleton_model:eye_rgt
+    100356: skeleton_model:head
+    100358: skeleton_model:jaw
+    100360: skeleton_model:skeleton_model
+    100362: skeleton_model:teeth_lower
+    100364: skeleton_model:teeth_upper
+    100366: Skeleton_rig_char
+    400000: Character1_Head
+    400002: Character1_Hips
+    400004: Character1_LeftArm
+    400006: Character1_LeftFoot
+    400008: Character1_LeftForeArm
+    400010: Character1_LeftHand
+    400012: Character1_LeftLeg
+    400014: Character1_LeftShoulder
+    400016: Character1_LeftToeBase
+    400018: Character1_LeftUpLeg
+    400020: Character1_Neck
+    400022: Character1_Reference
+    400024: Character1_RightArm
+    400026: Character1_RightFoot
+    400028: Character1_RightForeArm
+    400030: Character1_RightHand
+    400032: Character1_RightLeg
+    400034: Character1_RightShoulder
+    400036: Character1_RightToeBase
+    400038: Character1_RightUpLeg
+    400040: Character1_Spine
+    400042: Character1_Spine1
+    400044: Character1_Spine2
+    400046: joint1
+    400048: joint2
+    400050: //RootNode
+    400052: skeleton_model:body
+    400054: skeleton_model:bodyPart_0
+    400056: skeleton_model:bodyPart_1
+    400058: skeleton_model:bodyPart_10
+    400060: skeleton_model:bodyPart_100
+    400062: skeleton_model:bodyPart_101
+    400064: skeleton_model:bodyPart_102
+    400066: skeleton_model:bodyPart_103
+    400068: skeleton_model:bodyPart_104
+    400070: skeleton_model:bodyPart_105
+    400072: skeleton_model:bodyPart_106
+    400074: skeleton_model:bodyPart_107
+    400076: skeleton_model:bodyPart_108
+    400078: skeleton_model:bodyPart_109
+    400080: skeleton_model:bodyPart_11
+    400082: skeleton_model:bodyPart_110
+    400084: skeleton_model:bodyPart_111
+    400086: skeleton_model:bodyPart_112
+    400088: skeleton_model:bodyPart_113
+    400090: skeleton_model:bodyPart_114
+    400092: skeleton_model:bodyPart_115
+    400094: skeleton_model:bodyPart_116
+    400096: skeleton_model:bodyPart_117
+    400098: skeleton_model:bodyPart_118
+    400100: skeleton_model:bodyPart_119
+    400102: skeleton_model:bodyPart_12
+    400104: skeleton_model:bodyPart_120
+    400106: skeleton_model:bodyPart_121
+    400108: skeleton_model:bodyPart_122
+    400110: skeleton_model:bodyPart_123
+    400112: skeleton_model:bodyPart_124
+    400114: skeleton_model:bodyPart_125
+    400116: skeleton_model:bodyPart_126
+    400118: skeleton_model:bodyPart_127
+    400120: skeleton_model:bodyPart_128
+    400122: skeleton_model:bodyPart_129
+    400124: skeleton_model:bodyPart_13
+    400126: skeleton_model:bodyPart_130
+    400128: skeleton_model:bodyPart_131
+    400130: skeleton_model:bodyPart_132
+    400132: skeleton_model:bodyPart_133
+    400134: skeleton_model:bodyPart_134
+    400136: skeleton_model:bodyPart_135
+    400138: skeleton_model:bodyPart_136
+    400140: skeleton_model:bodyPart_137
+    400142: skeleton_model:bodyPart_138
+    400144: skeleton_model:bodyPart_139
+    400146: skeleton_model:bodyPart_14
+    400148: skeleton_model:bodyPart_140
+    400150: skeleton_model:bodyPart_141
+    400152: skeleton_model:bodyPart_142
+    400154: skeleton_model:bodyPart_143
+    400156: skeleton_model:bodyPart_144
+    400158: skeleton_model:bodyPart_145
+    400160: skeleton_model:bodyPart_146
+    400162: skeleton_model:bodyPart_147
+    400164: skeleton_model:bodyPart_148
+    400166: skeleton_model:bodyPart_15
+    400168: skeleton_model:bodyPart_16
+    400170: skeleton_model:bodyPart_17
+    400172: skeleton_model:bodyPart_18
+    400174: skeleton_model:bodyPart_19
+    400176: skeleton_model:bodyPart_2
+    400178: skeleton_model:bodyPart_20
+    400180: skeleton_model:bodyPart_21
+    400182: skeleton_model:bodyPart_22
+    400184: skeleton_model:bodyPart_23
+    400186: skeleton_model:bodyPart_24
+    400188: skeleton_model:bodyPart_25
+    400190: skeleton_model:bodyPart_26
+    400192: skeleton_model:bodyPart_27
+    400194: skeleton_model:bodyPart_28
+    400196: skeleton_model:bodyPart_29
+    400198: skeleton_model:bodyPart_3
+    400200: skeleton_model:bodyPart_30
+    400202: skeleton_model:bodyPart_31
+    400204: skeleton_model:bodyPart_32
+    400206: skeleton_model:bodyPart_33
+    400208: skeleton_model:bodyPart_34
+    400210: skeleton_model:bodyPart_35
+    400212: skeleton_model:bodyPart_36
+    400214: skeleton_model:bodyPart_37
+    400216: skeleton_model:bodyPart_38
+    400218: skeleton_model:bodyPart_39
+    400220: skeleton_model:bodyPart_4
+    400222: skeleton_model:bodyPart_40
+    400224: skeleton_model:bodyPart_41
+    400226: skeleton_model:bodyPart_42
+    400228: skeleton_model:bodyPart_43
+    400230: skeleton_model:bodyPart_44
+    400232: skeleton_model:bodyPart_45
+    400234: skeleton_model:bodyPart_46
+    400236: skeleton_model:bodyPart_47
+    400238: skeleton_model:bodyPart_48
+    400240: skeleton_model:bodyPart_49
+    400242: skeleton_model:bodyPart_5
+    400244: skeleton_model:bodyPart_50
+    400246: skeleton_model:bodyPart_51
+    400248: skeleton_model:bodyPart_52
+    400250: skeleton_model:bodyPart_53
+    400252: skeleton_model:bodyPart_54
+    400254: skeleton_model:bodyPart_55
+    400256: skeleton_model:bodyPart_56
+    400258: skeleton_model:bodyPart_57
+    400260: skeleton_model:bodyPart_58
+    400262: skeleton_model:bodyPart_59
+    400264: skeleton_model:bodyPart_6
+    400266: skeleton_model:bodyPart_60
+    400268: skeleton_model:bodyPart_61
+    400270: skeleton_model:bodyPart_62
+    400272: skeleton_model:bodyPart_63
+    400274: skeleton_model:bodyPart_64
+    400276: skeleton_model:bodyPart_65
+    400278: skeleton_model:bodyPart_66
+    400280: skeleton_model:bodyPart_67
+    400282: skeleton_model:bodyPart_68
+    400284: skeleton_model:bodyPart_69
+    400286: skeleton_model:bodyPart_7
+    400288: skeleton_model:bodyPart_70
+    400290: skeleton_model:bodyPart_71
+    400292: skeleton_model:bodyPart_72
+    400294: skeleton_model:bodyPart_73
+    400296: skeleton_model:bodyPart_74
+    400298: skeleton_model:bodyPart_75
+    400300: skeleton_model:bodyPart_76
+    400302: skeleton_model:bodyPart_77
+    400304: skeleton_model:bodyPart_78
+    400306: skeleton_model:bodyPart_79
+    400308: skeleton_model:bodyPart_8
+    400310: skeleton_model:bodyPart_80
+    400312: skeleton_model:bodyPart_81
+    400314: skeleton_model:bodyPart_82
+    400316: skeleton_model:bodyPart_83
+    400318: skeleton_model:bodyPart_84
+    400320: skeleton_model:bodyPart_85
+    400322: skeleton_model:bodyPart_86
+    400324: skeleton_model:bodyPart_87
+    400326: skeleton_model:bodyPart_88
+    400328: skeleton_model:bodyPart_89
+    400330: skeleton_model:bodyPart_9
+    400332: skeleton_model:bodyPart_90
+    400334: skeleton_model:bodyPart_91
+    400336: skeleton_model:bodyPart_92
+    400338: skeleton_model:bodyPart_93
+    400340: skeleton_model:bodyPart_94
+    400342: skeleton_model:bodyPart_95
+    400344: skeleton_model:bodyPart_96
+    400346: skeleton_model:bodyPart_97
+    400348: skeleton_model:bodyPart_98
+    400350: skeleton_model:bodyPart_99
+    400352: skeleton_model:eye_lft
+    400354: skeleton_model:eye_rgt
+    400356: skeleton_model:head
+    400358: skeleton_model:jaw
+    400360: skeleton_model:skeleton_model
+    400362: skeleton_model:teeth_lower
+    400364: skeleton_model:teeth_upper
+    400366: Skeleton_rig_char
+    4300000: skeleton_model:bodyPart_0
+    4300002: skeleton_model:bodyPart_1
+    4300004: skeleton_model:bodyPart_2
+    4300006: skeleton_model:bodyPart_3
+    4300008: skeleton_model:bodyPart_4
+    4300010: skeleton_model:bodyPart_5
+    4300012: skeleton_model:bodyPart_6
+    4300014: skeleton_model:bodyPart_7
+    4300016: skeleton_model:bodyPart_8
+    4300018: skeleton_model:bodyPart_9
+    4300020: skeleton_model:bodyPart_10
+    4300022: skeleton_model:bodyPart_11
+    4300024: skeleton_model:bodyPart_12
+    4300026: skeleton_model:bodyPart_13
+    4300028: skeleton_model:bodyPart_14
+    4300030: skeleton_model:bodyPart_15
+    4300032: skeleton_model:bodyPart_16
+    4300034: skeleton_model:bodyPart_17
+    4300036: skeleton_model:bodyPart_18
+    4300038: skeleton_model:bodyPart_19
+    4300040: skeleton_model:bodyPart_20
+    4300042: skeleton_model:bodyPart_21
+    4300044: skeleton_model:bodyPart_22
+    4300046: skeleton_model:bodyPart_23
+    4300048: skeleton_model:bodyPart_24
+    4300050: skeleton_model:bodyPart_25
+    4300052: skeleton_model:bodyPart_26
+    4300054: skeleton_model:bodyPart_27
+    4300056: skeleton_model:bodyPart_28
+    4300058: skeleton_model:bodyPart_29
+    4300060: skeleton_model:bodyPart_30
+    4300062: skeleton_model:bodyPart_31
+    4300064: skeleton_model:bodyPart_32
+    4300066: skeleton_model:bodyPart_33
+    4300068: skeleton_model:bodyPart_34
+    4300070: skeleton_model:bodyPart_35
+    4300072: skeleton_model:bodyPart_36
+    4300074: skeleton_model:bodyPart_37
+    4300076: skeleton_model:bodyPart_38
+    4300078: skeleton_model:bodyPart_39
+    4300080: skeleton_model:bodyPart_40
+    4300082: skeleton_model:bodyPart_41
+    4300084: skeleton_model:bodyPart_42
+    4300086: skeleton_model:bodyPart_43
+    4300088: skeleton_model:bodyPart_44
+    4300090: skeleton_model:bodyPart_45
+    4300092: skeleton_model:bodyPart_46
+    4300094: skeleton_model:bodyPart_47
+    4300096: skeleton_model:bodyPart_48
+    4300098: skeleton_model:bodyPart_49
+    4300100: skeleton_model:bodyPart_50
+    4300102: skeleton_model:bodyPart_51
+    4300104: skeleton_model:bodyPart_52
+    4300106: skeleton_model:bodyPart_53
+    4300108: skeleton_model:bodyPart_54
+    4300110: skeleton_model:bodyPart_55
+    4300112: skeleton_model:bodyPart_56
+    4300114: skeleton_model:bodyPart_57
+    4300116: skeleton_model:bodyPart_58
+    4300118: skeleton_model:bodyPart_59
+    4300120: skeleton_model:bodyPart_60
+    4300122: skeleton_model:bodyPart_61
+    4300124: skeleton_model:bodyPart_62
+    4300126: skeleton_model:bodyPart_63
+    4300128: skeleton_model:bodyPart_64
+    4300130: skeleton_model:bodyPart_65
+    4300132: skeleton_model:bodyPart_66
+    4300134: skeleton_model:bodyPart_67
+    4300136: skeleton_model:bodyPart_68
+    4300138: skeleton_model:bodyPart_69
+    4300140: skeleton_model:bodyPart_70
+    4300142: skeleton_model:bodyPart_71
+    4300144: skeleton_model:bodyPart_72
+    4300146: skeleton_model:bodyPart_73
+    4300148: skeleton_model:bodyPart_74
+    4300150: skeleton_model:bodyPart_75
+    4300152: skeleton_model:bodyPart_76
+    4300154: skeleton_model:bodyPart_77
+    4300156: skeleton_model:bodyPart_78
+    4300158: skeleton_model:bodyPart_79
+    4300160: skeleton_model:bodyPart_80
+    4300162: skeleton_model:bodyPart_81
+    4300164: skeleton_model:bodyPart_82
+    4300166: skeleton_model:bodyPart_83
+    4300168: skeleton_model:bodyPart_84
+    4300170: skeleton_model:bodyPart_85
+    4300172: skeleton_model:bodyPart_86
+    4300174: skeleton_model:bodyPart_87
+    4300176: skeleton_model:bodyPart_88
+    4300178: skeleton_model:bodyPart_89
+    4300180: skeleton_model:bodyPart_90
+    4300182: skeleton_model:bodyPart_91
+    4300184: skeleton_model:bodyPart_92
+    4300186: skeleton_model:bodyPart_93
+    4300188: skeleton_model:bodyPart_94
+    4300190: skeleton_model:bodyPart_95
+    4300192: skeleton_model:bodyPart_96
+    4300194: skeleton_model:bodyPart_97
+    4300196: skeleton_model:bodyPart_98
+    4300198: skeleton_model:bodyPart_99
+    4300200: skeleton_model:bodyPart_100
+    4300202: skeleton_model:bodyPart_101
+    4300204: skeleton_model:bodyPart_102
+    4300206: skeleton_model:bodyPart_103
+    4300208: skeleton_model:bodyPart_104
+    4300210: skeleton_model:bodyPart_105
+    4300212: skeleton_model:bodyPart_106
+    4300214: skeleton_model:bodyPart_107
+    4300216: skeleton_model:bodyPart_108
+    4300218: skeleton_model:bodyPart_109
+    4300220: skeleton_model:bodyPart_110
+    4300222: skeleton_model:bodyPart_111
+    4300224: skeleton_model:bodyPart_112
+    4300226: skeleton_model:bodyPart_113
+    4300228: skeleton_model:bodyPart_114
+    4300230: skeleton_model:bodyPart_115
+    4300232: skeleton_model:bodyPart_116
+    4300234: skeleton_model:bodyPart_117
+    4300236: skeleton_model:bodyPart_118
+    4300238: skeleton_model:bodyPart_119
+    4300240: skeleton_model:bodyPart_120
+    4300242: skeleton_model:bodyPart_121
+    4300244: skeleton_model:bodyPart_122
+    4300246: skeleton_model:bodyPart_123
+    4300248: skeleton_model:bodyPart_124
+    4300250: skeleton_model:bodyPart_125
+    4300252: skeleton_model:bodyPart_126
+    4300254: skeleton_model:bodyPart_127
+    4300256: skeleton_model:bodyPart_128
+    4300258: skeleton_model:bodyPart_129
+    4300260: skeleton_model:bodyPart_130
+    4300262: skeleton_model:bodyPart_131
+    4300264: skeleton_model:bodyPart_132
+    4300266: skeleton_model:bodyPart_133
+    4300268: skeleton_model:bodyPart_134
+    4300270: skeleton_model:bodyPart_135
+    4300272: skeleton_model:bodyPart_136
+    4300274: skeleton_model:bodyPart_137
+    4300276: skeleton_model:bodyPart_138
+    4300278: skeleton_model:bodyPart_139
+    4300280: skeleton_model:bodyPart_140
+    4300282: skeleton_model:bodyPart_141
+    4300284: skeleton_model:bodyPart_142
+    4300286: skeleton_model:bodyPart_143
+    4300288: skeleton_model:bodyPart_144
+    4300290: skeleton_model:bodyPart_145
+    4300292: skeleton_model:bodyPart_146
+    4300294: skeleton_model:bodyPart_147
+    4300296: skeleton_model:bodyPart_148
+    4300298: skeleton_model:eye_rgt
+    4300300: skeleton_model:eye_lft
+    4300302: skeleton_model:teeth_lower
+    4300304: skeleton_model:teeth_upper
+    4300306: skeleton_model:head
+    4300308: skeleton_model:jaw
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: skeleton_model:bodyPart_0
+    13700002: skeleton_model:bodyPart_1
+    13700004: skeleton_model:bodyPart_10
+    13700006: skeleton_model:bodyPart_100
+    13700008: skeleton_model:bodyPart_101
+    13700010: skeleton_model:bodyPart_102
+    13700012: skeleton_model:bodyPart_103
+    13700014: skeleton_model:bodyPart_104
+    13700016: skeleton_model:bodyPart_105
+    13700018: skeleton_model:bodyPart_106
+    13700020: skeleton_model:bodyPart_107
+    13700022: skeleton_model:bodyPart_108
+    13700024: skeleton_model:bodyPart_109
+    13700026: skeleton_model:bodyPart_11
+    13700028: skeleton_model:bodyPart_110
+    13700030: skeleton_model:bodyPart_111
+    13700032: skeleton_model:bodyPart_112
+    13700034: skeleton_model:bodyPart_113
+    13700036: skeleton_model:bodyPart_114
+    13700038: skeleton_model:bodyPart_115
+    13700040: skeleton_model:bodyPart_116
+    13700042: skeleton_model:bodyPart_117
+    13700044: skeleton_model:bodyPart_118
+    13700046: skeleton_model:bodyPart_119
+    13700048: skeleton_model:bodyPart_12
+    13700050: skeleton_model:bodyPart_120
+    13700052: skeleton_model:bodyPart_121
+    13700054: skeleton_model:bodyPart_122
+    13700056: skeleton_model:bodyPart_123
+    13700058: skeleton_model:bodyPart_124
+    13700060: skeleton_model:bodyPart_125
+    13700062: skeleton_model:bodyPart_126
+    13700064: skeleton_model:bodyPart_127
+    13700066: skeleton_model:bodyPart_128
+    13700068: skeleton_model:bodyPart_129
+    13700070: skeleton_model:bodyPart_13
+    13700072: skeleton_model:bodyPart_130
+    13700074: skeleton_model:bodyPart_131
+    13700076: skeleton_model:bodyPart_132
+    13700078: skeleton_model:bodyPart_133
+    13700080: skeleton_model:bodyPart_134
+    13700082: skeleton_model:bodyPart_135
+    13700084: skeleton_model:bodyPart_136
+    13700086: skeleton_model:bodyPart_137
+    13700088: skeleton_model:bodyPart_138
+    13700090: skeleton_model:bodyPart_139
+    13700092: skeleton_model:bodyPart_14
+    13700094: skeleton_model:bodyPart_140
+    13700096: skeleton_model:bodyPart_141
+    13700098: skeleton_model:bodyPart_142
+    13700100: skeleton_model:bodyPart_143
+    13700102: skeleton_model:bodyPart_144
+    13700104: skeleton_model:bodyPart_145
+    13700106: skeleton_model:bodyPart_146
+    13700108: skeleton_model:bodyPart_147
+    13700110: skeleton_model:bodyPart_148
+    13700112: skeleton_model:bodyPart_15
+    13700114: skeleton_model:bodyPart_16
+    13700116: skeleton_model:bodyPart_17
+    13700118: skeleton_model:bodyPart_18
+    13700120: skeleton_model:bodyPart_19
+    13700122: skeleton_model:bodyPart_2
+    13700124: skeleton_model:bodyPart_20
+    13700126: skeleton_model:bodyPart_21
+    13700128: skeleton_model:bodyPart_22
+    13700130: skeleton_model:bodyPart_23
+    13700132: skeleton_model:bodyPart_24
+    13700134: skeleton_model:bodyPart_25
+    13700136: skeleton_model:bodyPart_26
+    13700138: skeleton_model:bodyPart_27
+    13700140: skeleton_model:bodyPart_28
+    13700142: skeleton_model:bodyPart_29
+    13700144: skeleton_model:bodyPart_3
+    13700146: skeleton_model:bodyPart_30
+    13700148: skeleton_model:bodyPart_31
+    13700150: skeleton_model:bodyPart_32
+    13700152: skeleton_model:bodyPart_33
+    13700154: skeleton_model:bodyPart_34
+    13700156: skeleton_model:bodyPart_35
+    13700158: skeleton_model:bodyPart_36
+    13700160: skeleton_model:bodyPart_37
+    13700162: skeleton_model:bodyPart_38
+    13700164: skeleton_model:bodyPart_39
+    13700166: skeleton_model:bodyPart_4
+    13700168: skeleton_model:bodyPart_40
+    13700170: skeleton_model:bodyPart_41
+    13700172: skeleton_model:bodyPart_42
+    13700174: skeleton_model:bodyPart_43
+    13700176: skeleton_model:bodyPart_44
+    13700178: skeleton_model:bodyPart_45
+    13700180: skeleton_model:bodyPart_46
+    13700182: skeleton_model:bodyPart_47
+    13700184: skeleton_model:bodyPart_48
+    13700186: skeleton_model:bodyPart_49
+    13700188: skeleton_model:bodyPart_5
+    13700190: skeleton_model:bodyPart_50
+    13700192: skeleton_model:bodyPart_51
+    13700194: skeleton_model:bodyPart_52
+    13700196: skeleton_model:bodyPart_53
+    13700198: skeleton_model:bodyPart_54
+    13700200: skeleton_model:bodyPart_55
+    13700202: skeleton_model:bodyPart_56
+    13700204: skeleton_model:bodyPart_57
+    13700206: skeleton_model:bodyPart_58
+    13700208: skeleton_model:bodyPart_59
+    13700210: skeleton_model:bodyPart_6
+    13700212: skeleton_model:bodyPart_60
+    13700214: skeleton_model:bodyPart_61
+    13700216: skeleton_model:bodyPart_62
+    13700218: skeleton_model:bodyPart_63
+    13700220: skeleton_model:bodyPart_64
+    13700222: skeleton_model:bodyPart_65
+    13700224: skeleton_model:bodyPart_66
+    13700226: skeleton_model:bodyPart_67
+    13700228: skeleton_model:bodyPart_68
+    13700230: skeleton_model:bodyPart_69
+    13700232: skeleton_model:bodyPart_7
+    13700234: skeleton_model:bodyPart_70
+    13700236: skeleton_model:bodyPart_71
+    13700238: skeleton_model:bodyPart_72
+    13700240: skeleton_model:bodyPart_73
+    13700242: skeleton_model:bodyPart_74
+    13700244: skeleton_model:bodyPart_75
+    13700246: skeleton_model:bodyPart_76
+    13700248: skeleton_model:bodyPart_77
+    13700250: skeleton_model:bodyPart_78
+    13700252: skeleton_model:bodyPart_79
+    13700254: skeleton_model:bodyPart_8
+    13700256: skeleton_model:bodyPart_80
+    13700258: skeleton_model:bodyPart_81
+    13700260: skeleton_model:bodyPart_82
+    13700262: skeleton_model:bodyPart_83
+    13700264: skeleton_model:bodyPart_84
+    13700266: skeleton_model:bodyPart_85
+    13700268: skeleton_model:bodyPart_86
+    13700270: skeleton_model:bodyPart_87
+    13700272: skeleton_model:bodyPart_88
+    13700274: skeleton_model:bodyPart_89
+    13700276: skeleton_model:bodyPart_9
+    13700278: skeleton_model:bodyPart_90
+    13700280: skeleton_model:bodyPart_91
+    13700282: skeleton_model:bodyPart_92
+    13700284: skeleton_model:bodyPart_93
+    13700286: skeleton_model:bodyPart_94
+    13700288: skeleton_model:bodyPart_95
+    13700290: skeleton_model:bodyPart_96
+    13700292: skeleton_model:bodyPart_97
+    13700294: skeleton_model:bodyPart_98
+    13700296: skeleton_model:bodyPart_99
+    13700298: skeleton_model:eye_lft
+    13700300: skeleton_model:eye_rgt
+    13700302: skeleton_model:head
+    13700304: skeleton_model:jaw
+    13700306: skeleton_model:teeth_lower
+    13700308: skeleton_model:teeth_upper
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Character1_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: skeleton(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_Reference
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_Hips
+      position: {x: -0.037453294, y: 4.910625, z: -0.038935356}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_LeftUpLeg
+      position: {x: -0.43753672, y: -0.3078962, z: 0}
+      rotation: {x: 0, y: 0, z: -0.05353173, w: 0.99856615}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_LeftLeg
+      position: {x: 0.1377588, y: -2.0280607, z: -0.069056116}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_LeftFoot
+      position: {x: 0.2926703, y: -2.3265967, z: -5.551115e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_LeftToeBase
+      position: {x: -0.00000041381836, y: -0.18091604, z: 0.63615775}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_RightUpLeg
+      position: {x: 0.43753672, y: -0.3078962, z: 0}
+      rotation: {x: 0.009666361, y: 0.09180238, z: 0.10426931, w: 0.99025595}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_RightLeg
+      position: {x: -0.19032069, y: -1.9876797, z: -0.12786296}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_RightFoot
+      position: {x: -0.52741766, y: -2.2065065, z: -0.10084869}
+      rotation: {x: -0.009092727, y: -0.012791066, z: -0.04915097, w: 0.9986681}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_RightToeBase
+      position: {x: 0.00005329899, y: -0.18091604, z: 0.6361591}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_Spine
+      position: {x: -0, y: 0.34374374, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_Spine1
+      position: {x: -0, y: 0.6220125, z: -0.08056547}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_Spine2
+      position: {x: -0, y: 0.6220125, z: -0.12660287}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_LeftShoulder
+      position: {x: -0.34374377, y: 0.7000201, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_LeftArm
+      position: {x: -0.48366442, y: 0.0000067471988, z: 0}
+      rotation: {x: 0.03340645, y: 0.04220764, z: 0.03579387, w: 0.9979085}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_LeftForeArm
+      position: {x: -1.6882446, y: 0.078187205, z: -0.14795676}
+      rotation: {x: -0.030488506, y: -0.023260774, z: -0.099117175, w: 0.9943366}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_LeftHand
+      position: {x: -1.5662979, y: -0.21444303, z: 0.04393025}
+      rotation: {x: -0.00042870885, y: 0.018792493, z: -0.052222926, w: 0.9984585}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint2
+      position: {x: -0.62226236, y: -0.26440555, z: -0.0046654353}
+      rotation: {x: 1.6539316e-17, y: -0.82914346, z: -1.6539316e-17, w: 0.55903596}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_RightShoulder
+      position: {x: 0.3437437, y: 0.7000201, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_RightArm
+      position: {x: 0.6030539, y: 0.000021272828, z: 0}
+      rotation: {x: 0.0441057, y: -0.060499914, z: 0.015783973, w: 0.9970684}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_RightForeArm
+      position: {x: 1.6617537, y: -0.09729539, z: -0.20109068}
+      rotation: {x: 0.00043171045, y: 0.12961204, z: -0.03385709, w: 0.9909865}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_RightHand
+      position: {x: 1.5160564, y: 0.05148331, z: 0.32483473}
+      rotation: {x: -0.095394656, y: 0.9952375, z: -0.019382946, w: 0.0051457547}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint1
+      position: {x: -0.6852521, y: -0.23169318, z: -0.113022335}
+      rotation: {x: -6.0405665e-17, y: 0.9999101, z: 6.0405665e-17, w: -0.0134107545}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_Neck
+      position: {x: -0, y: 1.2940476, z: 0.20716834}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_Head
+      position: {x: -0, y: 0.982125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Skeleton_rig_char
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:skeleton_model
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.09556816, y: 0.09556816, z: 0.09556816}
+      transformModified: 1
+    - name: skeleton_model:body
+      position: {x: -0, y: -9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_0
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_1
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_2
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_3
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_4
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_5
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_6
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_7
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_8
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_9
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_10
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_11
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_12
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_13
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_14
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_15
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_16
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_17
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_18
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_19
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_20
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_21
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_22
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_23
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_24
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_25
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_26
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_27
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_28
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_29
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_30
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_31
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_32
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_33
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_34
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_35
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_36
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_37
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_38
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_39
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_40
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_41
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_42
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_43
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_44
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_45
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_46
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_47
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_48
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_49
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_50
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_51
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_52
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_53
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_54
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_55
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_56
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_57
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_58
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_59
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_60
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_61
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_62
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_63
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_64
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_65
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_66
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_67
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_68
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_69
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_70
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_71
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_72
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_73
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_74
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_75
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_76
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_77
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_78
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_79
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_80
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_81
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_82
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_83
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_84
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_85
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_86
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_87
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_88
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_89
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_90
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_91
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_92
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_93
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_94
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_95
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_96
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_97
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_98
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_99
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_100
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_101
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_102
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_103
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_104
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_105
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_106
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_107
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_108
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_109
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_110
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_111
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_112
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_113
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_114
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_115
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_116
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_117
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_118
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_119
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_120
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_121
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_122
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_123
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_124
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_125
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_126
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_127
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_128
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_129
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_130
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_131
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_132
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_133
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_134
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_135
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_136
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_137
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_138
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_139
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_140
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_141
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_142
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_143
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_144
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_145
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_146
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_147
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:bodyPart_148
+      position: {x: -0, y: 9.251125, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:eye_lft
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:eye_rgt
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:head
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:jaw
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:teeth_lower
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: skeleton_model:teeth_upper
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<Commons>
+		<item name = "goldore">
+			<id>34</id>
+		</item>
+		<item name = "goldore">
+			<id>34</id>
+		</item>
+		<item name = "goldore">
+			<id>34</id>
+		</item>
+		<item name = "goldore">
+			<id>34</id>
+		</item>
+		<item name = "goldore">
+			<id>34</id>
+		</item>
+		<item name = "goldore">
+			<id>34</id>
+		</item>
+		<item name = "goldore">
+			<id>34</id>
+		</item>
+		<item name = "goldore">
+			<id>34</id>
+		</item>
+		<item name = "amethyst">
+			<id>27</id>
+		</item>
+		<item name = "spinel">
+			<id>28</id>
+		</item>
+		<item name = "steelsword">
+			<id>00</id>
+		</item>
+		<item name = "steelhelmet">
+			<id>05</id>
+		</item>
+		<item name = "steelplate">
+			<id>06</id>
+		</item>
+		<item name = "steellegs">
+			<id>07</id>
+		</item>
+	</Commons>
+	<Rares>
+		<item name = "amethyst">
+			<id>27</id>
+		</item>
+		<item name = "spinel">
+			<id>28</id>
+		</item>
+		<item name = "sapphire">
+			<id>29</id>
+		</item>
+		<item name = "stardustore">
+			<id>35</id>
+		</item>
+		<item name = "stardustore">
+			<id>35</id>
+		</item>
+		<item name = "stardustore">
+			<id>35</id>
+		</item>
+		<item name = "stardustore">
+			<id>35</id>
+		</item>
+		<item name = "goldhelmet">
+			<id>08</id>
+		</item>
+		<item name = "goldlegs">
+			<id>10</id>
+		</item>
+	</Rares>
+	<Supers>
+		<item name = "goldplate">
+			<id>09</id>
+		</item>
+		<item name = "stardustlegs">
+			<id>13</id>
+		</item>
+		<item name = "stardusthelmet">
+			<id>11</id>
+		</item>
+		<item name = "vampirism">
+			<id>20</id>
+		</item>
+		<item name = "crit">
+			<id>23</id>
+		</item>
+		<item name = "speed">
+			<id>24</id>
+		</item>
+		<item name = "chunk">
+			<id>32</id>
+		</item>
+		<item name = "emerald">
+			<id>30</id>
+		</item>
+		<item name = "ruby">
+			<id>31</id>
+		</item>
+		<item name = "divineore">
+			<id>36</id>
+		</item>
+		<item name = "divineore">
+			<id>36</id>
+		</item>
+		<item name = "divineore">
+			<id>36</id>
+		</item>
+		<item name = "stardustshield">
+			<id>41</id>
+		</item>
+	</Supers>
+	<Megas>
+		<item name = "erra">
+			<id>21</id>
+		</item>
+		<item name = "vozium">
+			<id>22</id>
+		</item>
+		<item name = "lucky">
+			<id>26</id>
+		</item>
+		<item name = "diamond">
+			<id>33</id>
+		</item>
+		<item name = "errasigil">
+			<id>37</id>
+		</item>
+		<item name = "voziumsigil">
+			<id>38</id>
+		</item>
+	</Megas>
+</list>

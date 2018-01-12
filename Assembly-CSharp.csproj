@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{26A58BB0-1FB3-2FDB-D9FB-15D26A72CB1E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_5_2;UNITY_5_5;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;ENABLE_RUNTIME_GI;ENABLE_SUBSTANCE;ENABLE_GAMECENTER;ENABLE_NETWORK;ENABLE_UNITYWEBREQUEST;ENABLE_VIDEO;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;PLAYERCONNECTION_LISTENS_FIXED_PORT;DEBUGGER_LISTENS_FIXED_PORT;PLATFORM_SUPPORTS_ADS_ID;SUPPORT_ENVIRONMENT_VARIABLES;PLATFORM_SUPPORTS_PROFILER;PLATFORM_HAS_NO_SUPPORT_FOR_BUCKET_ALLOCATOR;STRICTCPP_NEW_DELETE_SIGNATURES;HAS_NEON_SKINNIG;UNITY_GFX_USE_PLATFORM_VSYNC;UNITY_INPUT_SIMULATE_EVENTS;PLATFORM_ALWAYS_USES_STDOUT_FOR_LOG;ENABLE_VR;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;UNITY_IOS;UNITY_IPHONE;UNITY_IPHONE_API;SUPPORT_MULTIPLE_DISPLAYS;ENABLE_IL2CPP;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;ENABLE_IOS_ON_DEMAND_RESOURCES;ENABLE_IOS_APP_SLICING</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Gameplay\Scripts\Enemies\Enemy.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\Enemies\attackCheck.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\Generation\DeletePreviousRoom.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\Generation\DungeonData.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\Generation\GenerateDungeon.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\Generation\GetSpawnPoints.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\Generation\MultiRandomizer.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\Generation\SpawnNextRoom.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\Generation\SpawnObjectCollider.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\Generation\TrapGenerator.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\Loot\PickupLoot.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\Reward\DungeonReward.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\Rooms\RoomRandomizer.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\Rooms\Start\PlayerSpawns.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\Rooms\Waves.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\Sound.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\Startup.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\Traps\LinearTrap.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\Traps\StartRollingTrap.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\Tutorial\Notify.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\Tutorial\TutorialEnemy.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\Tutorial\TutorialPlayerController.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\Tutorial\TutorialSpawn.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\UI\AttackButton.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\UI\BlockButton.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\UI\DungeonComplete.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\UI\Fader.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\UI\GetKeys.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\UI\HealthBarFaceCamera.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\UI\InteractButton.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\UI\LevelUp.cs" />
+     <Compile Include="Assets\Gameplay\Scripts\UI\PopupLog.cs" />
+     <Compile Include="Assets\Menu\Scripts\AdManager.cs" />
+     <Compile Include="Assets\Menu\Scripts\AdReward.cs" />
+     <Compile Include="Assets\Menu\Scripts\BuyingInterface.cs" />
+     <Compile Include="Assets\Menu\Scripts\CongratzBox.cs" />
+     <Compile Include="Assets\Menu\Scripts\CraftingInterface.cs" />
+     <Compile Include="Assets\Menu\Scripts\CraftingInterfaceItem.cs" />
+     <Compile Include="Assets\Menu\Scripts\Destroy.cs" />
+     <Compile Include="Assets\Menu\Scripts\First Start\HeroCreation.cs" />
+     <Compile Include="Assets\Menu\Scripts\HelpButton.cs" />
+     <Compile Include="Assets\Menu\Scripts\IAP\Purchaser.cs" />
+     <Compile Include="Assets\Menu\Scripts\IAP\disableNC.cs" />
+     <Compile Include="Assets\Menu\Scripts\InventoryItem.cs" />
+     <Compile Include="Assets\Menu\Scripts\InventoryManager.cs" />
+     <Compile Include="Assets\Menu\Scripts\LoadingScreen.cs" />
+     <Compile Include="Assets\Menu\Scripts\MenuManager.cs" />
+     <Compile Include="Assets\Menu\Scripts\OpenChest.cs" />
+     <Compile Include="Assets\Menu\Scripts\OptionsMenu.cs" />
+     <Compile Include="Assets\Menu\Scripts\SellingInterface.cs" />
+     <Compile Include="Assets\Menu\Scripts\SellingItem.cs" />
+     <Compile Include="Assets\Menu\Scripts\ShrineTrader.cs" />
+     <Compile Include="Assets\Menu\Scripts\Shrinetrader\randomSpawn.cs" />
+     <Compile Include="Assets\Menu\Scripts\TraderDatabase.cs" />
+     <Compile Include="Assets\Menu\Scripts\menuStatsManager.cs" />
+     <Compile Include="Assets\Menu\Scripts\menu_SPManage.cs" />
+     <Compile Include="Assets\Player\Items\Scripts\ArmorItem.cs" />
+     <Compile Include="Assets\Player\Items\Scripts\BaseItem.cs" />
+     <Compile Include="Assets\Player\Items\Scripts\Blessing2Item.cs" />
+     <Compile Include="Assets\Player\Items\Scripts\BlessingItem.cs" />
+     <Compile Include="Assets\Player\Items\Scripts\CraftItem.cs" />
+     <Compile Include="Assets\Player\Items\Scripts\GrantReward.cs" />
+     <Compile Include="Assets\Player\Items\Scripts\ItemDatabase.cs" />
+     <Compile Include="Assets\Player\Items\Scripts\ItemDescription.cs" />
+     <Compile Include="Assets\Player\Items\Scripts\Recipe.cs" />
+     <Compile Include="Assets\Player\Items\Scripts\RecipeDatabase.cs" />
+     <Compile Include="Assets\Player\Items\Scripts\TradeItem.cs" />
+     <Compile Include="Assets\Player\Items\Scripts\WeaponItem.cs" />
+     <Compile Include="Assets\Player\Player\Scripts\Achievements\Achievements.cs" />
+     <Compile Include="Assets\Player\Player\Scripts\Achievements\achieveLog.cs" />
+     <Compile Include="Assets\Player\Player\Scripts\GameController.cs" />
+     <Compile Include="Assets\Player\Player\Scripts\Player.cs" />
+     <Compile Include="Assets\Player\Player\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\Player\Player\Scripts\PlayerModelSwitcher.cs" />
+     <Compile Include="Assets\Player\Player\Scripts\PlayerUI.cs" />
+     <Compile Include="Assets\Player\Player\Scripts\VirtualJoystick.cs" />
+     <Compile Include="Assets\Resources\Dungeon Models\Room Props\Torch\torchspawn.cs" />
+     <Compile Include="Assets\Resources\Scripts\Database.cs" />
+     <Compile Include="Assets\Resources\Scripts\XMLManager.cs" />
+     <Compile Include="Assets\Resources\UI\Loading\loadingText.cs" />
+     <Compile Include="Assets\ZFrame\Example\Example_ZPlayerPrefs.cs" />
+     <Compile Include="Assets\ZFrame\ZPlayerPrefs.cs" />
+     <None Include="Assets\ZFrame\Readme\readme_ZPlayerPrefs.txt" />
+     <None Include="Assets\Resources\tradersdatabase.xml" />
+     <None Include="Assets\Resources\recipedatabase.xml" />
+     <None Include="Assets\Resources\itemdatabase.xml" />
+     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+     <None Include="Assets\Resources\loottable.xml" />
+     <None Include="Assets\Temp\StagingArea\AndroidManifest.xml" />
+     <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
+     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
+     <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.PlaymodeTestsRunner">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.HoloLens">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.VR">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
+ </Reference>
+ <Reference Include="Common">
+ <HintPath>D:/#/Coding/UNITY Games/PX_ED/Assets/Plugins/UnityPurchasing/Bin/Common.dll</HintPath>
+ </Reference>
+ <Reference Include="Editor">
+ <HintPath>D:/#/Coding/UNITY Games/PX_ED/Assets/Plugins/UnityPurchasing/Bin/Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Security">
+ <HintPath>D:/#/Coding/UNITY Games/PX_ED/Assets/Plugins/UnityPurchasing/Bin/Security.dll</HintPath>
+ </Reference>
+ <Reference Include="Stores">
+ <HintPath>D:/#/Coding/UNITY Games/PX_ED/Assets/Plugins/UnityPurchasing/Bin/Stores.dll</HintPath>
+ </Reference>
+ <Reference Include="Apple">
+ <HintPath>D:/#/Coding/UNITY Games/PX_ED/Assets/Plugins/UnityPurchasing/Bin/Apple/Apple.dll</HintPath>
+ </Reference>
+ <Reference Include="Tizen">
+ <HintPath>D:/#/Coding/UNITY Games/PX_ED/Assets/Plugins/UnityPurchasing/Bin/Tizen/Tizen.dll</HintPath>
+ </Reference>
+ <Reference Include="winrt">
+ <HintPath>D:/#/Coding/UNITY Games/PX_ED/Assets/Plugins/UnityPurchasing/winrt/winrt.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+ <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.iOS.Extensions.Common">
+ <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{0C571F84-8037-C69B-CEAD-147A35A2AC48}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

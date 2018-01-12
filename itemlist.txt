@@ -1,0 +1,43 @@
+steel sword
+gold sword
+startdust sword
+vozium sword
+erra sword
+steel helmet
+gold helmet
+stardust helmet
+vozium helmet
+erra helmet
+steel chestplate
+gold chestplate
+stardust chestplate
+vozium chestplate
+erra chestplate
+steel platelegs
+gold platelegs
+stardust platelegs
+vozium platelegs
+erra platelegs
+amethyst
+spinel
+sapphire
+emerald
+ruby
+chunkofGold
+diamond
+steelore
+goldore
+stardust
+swordshard
+godswordshard
+armorshard
+vozemblem
+erraemblem
+vampblessing
+errablessing
+vozblessing
+balanceblessing
+chanceblessing
+speedblessing
+perserverenceblessing
+goldblessing

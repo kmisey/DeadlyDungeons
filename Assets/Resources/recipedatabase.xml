@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<Recipes>
+		<recipe name="goldsword">
+			<item>goldore</item>
+			<item>goldore</item>
+			<item>goldore</item>
+		</recipe>
+		<recipe name="goldhelmet">
+			<item>goldore</item>
+			<item>goldore</item>
+		</recipe>
+		<recipe name="goldplate">
+			<item>goldore</item>
+			<item>goldore</item>
+			<item>goldore</item>
+			<item>goldore</item>
+		</recipe>
+		<recipe name="goldlegs">
+			<item>goldore</item>
+			<item>goldore</item>
+			<item>goldore</item>
+		</recipe>
+		<recipe name="stardustsword">
+			<item>stardustore</item>
+			<item>stardustore</item>
+			<item>stardustore</item>
+		</recipe>
+		<recipe name="stardusthelmet">
+			<item>stardustore</item>
+			<item>stardustore</item>
+		</recipe>
+		<recipe name="stardustplate">
+			<item>stardustore</item>
+			<item>stardustore</item>
+			<item>stardustore</item>
+			<item>stardustore</item>
+		</recipe>
+		<recipe name="stardustlegs">
+			<item>stardustore</item>
+			<item>stardustore</item>
+			<item>stardustore</item>
+		</recipe>
+		<recipe name="errasword">
+			<item>divineore</item>
+			<item>divineore</item>
+			<item>divineore</item>
+			<item>errasigil</item>
+		</recipe>
+		<recipe name="errahelmet">
+			<item>divineore</item>
+			<item>divineore</item>
+			<item>errasigil</item>
+		</recipe>
+		<recipe name="erraplate">
+			<item>divineore</item>
+			<item>divineore</item>
+			<item>divineore</item>
+			<item>divineore</item>
+			<item>errasigil</item>
+		</recipe>
+		<recipe name="erralegs">
+			<item>divineore</item>
+			<item>divineore</item>
+			<item>divineore</item>
+			<item>errasigil</item>
+		</recipe>
+		<recipe name="voziumsword">
+			<item>divineore</item>
+			<item>divineore</item>
+			<item>divineore</item>
+			<item>voziumsigil</item>
+		</recipe>
+		<recipe name="voziumhelmet">
+			<item>divineore</item>
+			<item>divineore</item>
+			<item>voziumsigil</item>
+		</recipe>
+		<recipe name="voziumplate">
+			<item>divineore</item>
+			<item>divineore</item>
+			<item>divineore</item>
+			<item>divineore</item>
+			<item>voziumsigil</item>
+		</recipe>
+		<recipe name="voziumlegs">
+			<item>divineore</item>
+			<item>divineore</item>
+			<item>divineore</item>
+			<item>voziumsigil</item>
+		</recipe>
+		<recipe name="goldshield">
+			<item>goldore</item>
+			<item>goldore</item>
+			<item>goldore</item>
+		</recipe>
+		<recipe name="stardustshield">
+			<item>stardustore</item>
+			<item>stardustore</item>
+			<item>stardustore</item>
+		</recipe>
+		<recipe name="voziumshield">
+			<item>divineore</item>
+			<item>divineore</item>
+			<item>divineore</item>
+			<item>voziumsigil</item>
+		</recipe>
+		<recipe name="errashield">
+			<item>divineore</item>
+			<item>divineore</item>
+			<item>divineore</item>
+			<item>errasigil</item>
+		</recipe>
+		<recipe name="7thsigil">
+			<item>divineore</item>
+			<item>goldore</item>
+			<item>stardustore</item>
+			<item>voziumsigil</item>
+			<item>errasigil</item>
+		</recipe>
+		<recipe name="7thsword">
+			<item>divineore</item>
+			<item>divineore</item>
+			<item>divineore</item>
+			<item>goldore</item>
+			<item>goldore</item>
+			<item>goldore</item>
+			<item>stardustore</item>
+			<item>stardustore</item>
+			<item>stardustore</item>
+			<item>7thsigil</item>
+		</recipe>
+	</Recipes>
+</list>

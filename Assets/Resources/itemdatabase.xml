@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<Weapon>
+		<BaseItem name="steelsword">
+			<id>0</id>
+			<title>Steel Sword</title>
+			<damage>50</damage>
+			<lifesteal>0</lifesteal>
+			<bonusdmg>0.0</bonusdmg>
+			<crit>0</crit>
+			<worth>20</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="steelrolansswordv2">
+			<id>49</id>
+			<title>Steel Sword Ver2</title>
+			<damage>50</damage>
+			<lifesteal>0</lifesteal>
+			<bonusdmg>0.0</bonusdmg>
+			<crit>0</crit>
+			<worth>20</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="steelkeksword">
+			<id>50</id>
+			<title>Steel Sword Ver2</title>
+			<damage>50</damage>
+			<lifesteal>0</lifesteal>
+			<bonusdmg>0.0</bonusdmg>
+			<crit>0</crit>
+			<worth>20</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="steelfitythword">
+			<id>51</id>
+			<title>Steel Sword Ver2</title>
+			<damage>50</damage>
+			<lifesteal>0</lifesteal>
+			<bonusdmg>0.0</bonusdmg>
+			<crit>0</crit>
+			<worth>20</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="steedickhword">
+			<id>52</id>
+			<title>Steel Sword Ver2</title>
+			<damage>50</damage>
+			<lifesteal>0</lifesteal>
+			<bonusdmg>0.0</bonusdmg>
+			<crit>0</crit>
+			<worth>20</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="eatmydust">
+			<id>53</id>
+			<title>Steel Sword Ver2</title>
+			<damage>50</damage>
+			<lifesteal>0</lifesteal>
+			<bonusdmg>0.0</bonusdmg>
+			<crit>0</crit>
+			<worth>20</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="eatmydustsdffd">
+			<id>54</id>
+			<title>Steel Sword Ver2fsdffsd</title>
+			<damage>50</damage>
+			<lifesteal>0</lifesteal>
+			<bonusdmg>0.0</bonusdmg>
+			<crit>0</crit>
+			<worth>20</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="eatmydustfgg">
+			<id>55</id>
+			<title>Steel Sword Ver2sdfsdffds</title>
+			<damage>50</damage>
+			<lifesteal>0</lifesteal>
+			<bonusdmg>0.0</bonusdmg>
+			<crit>0</crit>
+			<worth>20</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="eatmydust">
+			<id>56</id>
+			<title>Steel Sword Ver2sdffdsfds</title>
+			<damage>50</damage>
+			<lifesteal>0</lifesteal>
+			<bonusdmg>0.0</bonusdmg>
+			<crit>0</crit>
+			<worth>20</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="goldsword">
+			<id>1</id>
+			<title>Gold Sword</title>
+			<damage>75</damage>
+			<lifesteal>0</lifesteal>
+			<bonusdmg>0.0</bonusdmg>
+			<crit>0</crit>
+			<worth>200</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="stardustsword">
+			<id>02</id>
+			<title>Stardust Sword</title>
+			<damage>100</damage>
+			<lifesteal>0</lifesteal>
+			<bonusdmg>0.0</bonusdmg>
+			<crit>0</crit>
+			<worth>2500</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="voziumsword">
+			<id>03</id>
+			<title>Vozium Sword</title>
+			<damage>150</damage>
+			<lifesteal>0.15</lifesteal>
+			<bonusdmg>0.05</bonusdmg>
+			<crit>0.10</crit>
+			<worth>25000</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="errasword">
+			<id>04</id>
+			<title>Erra Sword</title>
+			<damage>150</damage>
+			<lifesteal>0.05</lifesteal>
+			<bonusdmg>0.15</bonusdmg>
+			<crit>.10</crit>
+			<worth>25000</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="samuraisword">
+			<id>44</id>
+			<title>Samurai Sword</title>
+			<damage>200</damage>
+			<lifesteal>0.03</lifesteal>
+			<bonusdmg>0.20</bonusdmg>
+			<crit>.10</crit>
+			<worth>50000</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="frenchrapier">
+			<id>45</id>
+			<title>French Rapier</title>
+			<damage>200</damage>
+			<lifesteal>0.03</lifesteal>
+			<bonusdmg>0.00</bonusdmg>
+			<crit>.25</crit>
+			<worth>50000</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="7thsword">
+			<id>46</id>
+			<title>The 7th Sword</title>
+			<damage>200</damage>
+			<lifesteal>0.20</lifesteal>
+			<bonusdmg>0.20</bonusdmg>
+			<crit>.20</crit>
+			<worth>100000</worth>
+			<amount>0</amount>
+		</BaseItem>
+	</Weapon>
+	<Armor>
+		<BaseItem name="steelhelmet">
+			<id>05</id>
+			<title>Steel Helmet</title>
+			<armor>10</armor>
+			<reduction>0.0</reduction>
+			<worth>20</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="steelplate">
+			<id>06</id>
+			<title>Steel Chest</title>
+			<armor>25</armor>
+			<reduction>0.0</reduction>
+			<worth>40</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="steellegs">
+			<id>07</id>
+			<title>Steel Legs</title>
+			<armor>15</armor>
+			<reduction>0.0</reduction>
+			<worth>30</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="goldhelmet">
+			<id>08</id>
+			<title>Gold Helmet</title>
+			<armor>25</armor>
+			<reduction>0.0</reduction>
+			<worth>150</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="goldplate">
+			<id>09</id>
+			<title>Gold Chest</title>
+			<armor>50</armor>
+			<reduction>0.0</reduction>
+			<worth>300</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="goldlegs">
+			<id>10</id>
+			<title>Gold Legs</title>
+			<armor>30</armor>
+			<reduction>0.0</reduction>
+			<worth>200</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="stardusthelmet">
+			<id>11</id>
+			<title>Stardust Helmet</title>
+			<armor>50</armor>
+			<reduction>0.0</reduction>
+			<worth>800</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="stardustplate">
+			<id>12</id>
+			<title>Stardust Chest</title>
+			<armor>100</armor>
+			<reduction>0.0</reduction>
+			<worth>1600</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="stardustlegs">
+			<id>13</id>
+			<title>Stardust Legs</title>
+			<armor>70</armor>
+			<reduction>0.0</reduction>
+			<worth>1200</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="errahelmet">
+			<id>14</id>
+			<title>Erra Helmet</title>
+			<armor>130</armor>
+			<reduction>0.05</reduction>
+			<worth>10000</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="erraplate">
+			<id>15</id>
+			<title>Erra Chest</title>
+			<armor>235</armor>
+			<reduction>0.05</reduction>
+			<worth>15000</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="erralegs">
+			<id>16</id>
+			<title>Erra Legs</title>
+			<armor>185</armor>
+			<reduction>0.05</reduction>
+			<worth>10000</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="voziumhelmet">
+			<id>17</id>
+			<title>Vozium Helmet</title>
+			<armor>100</armor>
+			<reduction>0.15</reduction>
+			<worth>10000</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="voziumplate">
+			<id>18</id>
+			<title>Vozium Chest</title>
+			<armor>200</armor>
+			<reduction>0.15</reduction>
+			<worth>15000</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="voziumlegs">
+			<id>19</id>
+			<title>Vozium Legs</title>
+			<armor>150</armor>
+			<reduction>0.15</reduction>
+			<worth>10000</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="steelshield">
+			<id>39</id>
+			<title>Steel Shield</title>
+			<armor>20</armor>
+			<reduction>0</reduction>
+			<worth>10</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="goldshield">
+			<id>40</id>
+			<title>Gold Shield</title>
+			<armor>60</armor>
+			<reduction>0</reduction>
+			<worth>300</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="stardustshield">
+			<id>41</id>
+			<title>Stardust Shield</title>
+			<armor>80</armor>
+			<reduction>0</reduction>
+			<worth>1000</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="errashield">
+			<id>42</id>
+			<title>Erra Shield</title>
+			<armor>200</armor>
+			<reduction>0.05</reduction>
+			<worth>13000</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="voziumshield">
+			<id>43</id>
+			<title>Vozium Shield</title>
+			<armor>150</armor>
+			<reduction>0.15</reduction>
+			<worth>13000</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="explorersshield">
+			<id>48</id>
+			<title>Explorers Shield</title>
+			<armor>200</armor>
+			<reduction>0.15</reduction>
+			<worth>50000</worth>
+			<amount>0</amount>
+		</BaseItem>
+	</Armor>
+	<Blessing1>
+		<BaseItem name="vampirism">
+			<id>20</id>
+			<title>Vamp. Blessing</title>
+			<type>lifesteal</type>
+			<modifier>0.10</modifier>
+			<worth>2000</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="erra">
+			<id>21</id>
+			<title>Erra's Blessing</title>
+			<type>damage</type>
+			<modifier>0.10</modifier>
+			<worth>2000</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="vozium">
+			<id>22</id>
+			<title>Vozium's Blessing</title>
+			<type>reduction</type>
+			<modifier>0.10</modifier>
+			<worth>2000</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="crit">
+			<id>23</id>
+			<title>Critical Blessing</title>
+			<type>crit</type>
+			<modifier>0.15</modifier>
+			<worth>2000</worth>
+			<amount>0</amount>
+		</BaseItem>
+	</Blessing1>
+	<Blessing2>
+		<BaseItem name="speed">
+			<id>24</id>
+			<title>Speedy Blessing</title>
+			<type>movement</type>
+			<modifier>0.10</modifier>
+			<worth>2000</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="regen">
+			<id>25</id>
+			<title>Regen Blessing</title>
+			<type>regen</type>
+			<modifier>0.01</modifier>
+			<worth>2000</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="lucky">
+			<id>26</id>
+			<title>Luck Blessing</title>
+			<type>luck</type>
+			<modifier>0.10</modifier>
+			<worth>2000</worth>
+			<amount>0</amount>
+		</BaseItem>
+	</Blessing2>
+	<Valuable>
+		<BaseItem name="amethyst">
+			<id>27</id>
+			<title>Amethyst</title>
+			<worth>25</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="spinel">
+			<id>28</id>
+			<title>Spinel</title>
+			<worth>50</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="sapphire">
+			<id>29</id>
+			<title>Sapphire</title>
+			<worth>75</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="emerald">
+			<id>30</id>
+			<title>Emerald</title>
+			<worth>100</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="ruby">
+			<id>31</id>
+			<title>Ruby</title>
+			<worth>125</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="chunk">
+			<id>32</id>
+			<title>Chunk of Gold</title>
+			<worth>200</worth>
+			<amount>0</amount>
+		</BaseItem>
+		<BaseItem name="diamond">
+			<id>33</id>
+			<title>Diamond</title>
+			<worth>400</worth>
+			<amount>0</amount>
+		</BaseItem>
+	</Valuable>
+	<Craft>
+		<BaseItem name="goldore">
+			<id>34</id>
+			<title>Gold ore</title>
+			<worth>100</worth>
+			<desc>Used for creating gold armor and weapons. (Takes 2-4 ores depending on item)</desc>
+		</BaseItem>
+		<BaseItem name="stardustore">
+			<id>35</id>
+			<title>Stardust ore</title>
+			<worth>400</worth>
+			<desc>Used for creating stardust armor and weapons. (Takes 2-4 ores depending on item)</desc>
+		</BaseItem>
+		<BaseItem name="divineore">
+			<id>36</id>
+			<title>Divine ore</title>
+			<worth>2500</worth>
+			<desc>Used for creating the gods Erra and Vozium's armor and weapons. (Takes 2-4 ores depending on item and their sigil)</desc>
+		</BaseItem>
+		<BaseItem name="errasigil">
+			<id>37</id>
+			<title>Erra Sigil</title>
+			<worth>5000</worth>
+			<desc>Used for creating the god Erra's armor and weapon.</desc>
+		</BaseItem>
+		<BaseItem name="voziumsigil">
+			<id>38</id>
+			<title>Vozium Sigil</title>
+			<worth>5000</worth>
+			<desc>Used for creating the god Vozium's armor and weapon.</desc>
+		</BaseItem>
+		<BaseItem name="7thsigil">
+			<id>47</id>
+			<title>The 7th Sigil</title>
+			<worth>10000</worth>
+			<desc>Used for creating the legendary 7th sword.</desc>
+		</BaseItem>
+	</Craft>
+</list>

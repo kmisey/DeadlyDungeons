@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deadly Dungeons RPG.CSharp.Plugins", "Deadly Dungeons RPG.CSharp.Plugins.csproj", "{77CEAB44-9342-A5DD-2822-2B5B1B20F536}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deadly Dungeons RPG.CSharp", "Deadly Dungeons RPG.CSharp.csproj", "{86FF9B10-62FF-92D0-E4C7-574E00FF131D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deadly Dungeons RPG.CSharp.Editor.Plugins", "Deadly Dungeons RPG.CSharp.Editor.Plugins.csproj", "{7A30B3BD-1F8A-2C9F-CA27-52778B0BF968}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deadly Dungeons RPG.CSharp.Editor", "Deadly Dungeons RPG.CSharp.Editor.csproj", "{99A9EE5A-302E-207F-2A03-C450E7410EA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77CEAB44-9342-A5DD-2822-2B5B1B20F536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77CEAB44-9342-A5DD-2822-2B5B1B20F536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77CEAB44-9342-A5DD-2822-2B5B1B20F536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77CEAB44-9342-A5DD-2822-2B5B1B20F536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86FF9B10-62FF-92D0-E4C7-574E00FF131D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86FF9B10-62FF-92D0-E4C7-574E00FF131D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86FF9B10-62FF-92D0-E4C7-574E00FF131D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86FF9B10-62FF-92D0-E4C7-574E00FF131D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A30B3BD-1F8A-2C9F-CA27-52778B0BF968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A30B3BD-1F8A-2C9F-CA27-52778B0BF968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A30B3BD-1F8A-2C9F-CA27-52778B0BF968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A30B3BD-1F8A-2C9F-CA27-52778B0BF968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99A9EE5A-302E-207F-2A03-C450E7410EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A9EE5A-302E-207F-2A03-C450E7410EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A9EE5A-302E-207F-2A03-C450E7410EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A9EE5A-302E-207F-2A03-C450E7410EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
